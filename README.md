@@ -6,7 +6,7 @@
 
 <h3>hello! i'm kadet</h3>
 
-$`\large\color{#9198a1}{\begin{array}{l}\textsf{i design, build and maintain software. over the years, i've worked mostly} \\ \textsf{in product and design engineering, across gaming, finance and creative} \\ \textsf{development. atm, my role involves making hiring less painful for recruiters.}\end{array}}`$
+$`\large\color{#9198a1}{\begin{array}{l}\textsf{i design, build and maintain software. over the years, i've worked mostly in product and design engineering,} \\ \textsf{across gaming, finance and creative development. atm, my role involves making hiring less painful for recruiters.}\end{array}}`$
 
 <br />
 
