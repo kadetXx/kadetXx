@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kadet.dev">
-    <img src="kana.gif" alt="かっこいい子." width="300" />
+    <img src="kana.gif" alt="かっこいい子." width="347" />
   </a>
 </p>
 
