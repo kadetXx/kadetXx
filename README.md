@@ -17,3 +17,14 @@
   engineering, across gaming, finance and creative development.<br />
   Right now, I'm solving problems for recruiting teams.
 </p>
+
+<br />
+
+<p align="center">
+  <sub>
+    <a href="https://kadet.dev">kadet.dev</a> ·
+    <a href="https://kadetxx.substack.com">Substack</a> ·
+    <a href="https://www.linkedin.com/in/collinsenebeli/">LinkedIn</a> ·
+    <a href="mailto:hello@kadet.dev">hello@kadet.dev</a>
+  </sub>
+</p>
