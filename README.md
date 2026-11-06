@@ -8,8 +8,8 @@
 
 $$
 \large\color{#9198a1}{\begin{array}{c}
-\textsf{i plan, design, build and maintain software. over the} \\
-\textsf{years, i've worked mostly in product and design engineering,} \\
+\textsf{i design, build and maintain software. over the years,} \\
+\textsf{i've worked mostly in product and design engineering,} \\
 \textsf{across gaming, finance and creative development. atm, my} \\
 \textsf{role involves making hiring less painful for recruiters.}
 \end{array}}
