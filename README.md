@@ -11,7 +11,7 @@ $$
 \textsf{i plan, design, build and maintain software.} \\
 \textsf{over the years, i've worked mostly in product and design} \\
 \textsf{engineering, across gaming, finance and creative development.} \\
-\textsf{right now, i'm solving problems for recruiting teams.}
+\textsf{right now, i'm making hiring less painful for recruiters.}
 \end{array}}
 $$
 
