@@ -1,8 +1,10 @@
 <p>
   <a href="https://kadet.dev">
-    <img src="kana.gif" alt="かっこいい子." width="306" />
+    <img src="kana.gif" alt="かっこいい子." width="290" />
   </a>
 </p>
+
+<br />
 
 $`\LARGE\textsf{hello! i'm kadet}`$
 
