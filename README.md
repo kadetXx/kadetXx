@@ -29,5 +29,5 @@ $$
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:hello@kadet.dev" title="hello@kadet.dev"><img src="icons/mail.svg" width="20" height="20" alt="hello@kadet.dev" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://kadetxx.substack.com" title="Substack"><img src="icons/substack.svg" width="20" height="20" alt="Substack" /></a>
+  <a href="https://kadet.dev/blog" title="Blog"><img src="icons/pen.svg" width="20" height="20" alt="Blog" /></a>
 </p>
