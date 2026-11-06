@@ -6,17 +6,21 @@
 
 <h3 align="center">Hi! i'm kadet</h3>
 
-<p align="center">
-  I plan, design, build and maintain software. These days, that<br />
-  mostly involves teaming up with agents on anything from interfaces<br />
-  that feel alive to the cloud pipelines that keep them running.
-</p>
+$$
+\color{#9198a1}{\begin{array}{c}
+\text{I plan, design, build and maintain software. These days, that} \\
+\text{mostly involves teaming up with agents on anything from interfaces} \\
+\text{that feel alive to the cloud pipelines that keep them running.}
+\end{array}}
+$$
 
-<p align="center">
-  Over the years, I've worked mostly in product and design<br />
-  engineering, across gaming, finance and creative development.<br />
-  Right now, I'm solving problems for recruiting teams.
-</p>
+$$
+\color{#9198a1}{\begin{array}{c}
+\text{Over the years, I've worked mostly in product and design} \\
+\text{engineering, across gaming, finance and creative development.} \\
+\text{Right now, I'm solving problems for recruiting teams.}
+\end{array}}
+$$
 
 <br />
 
