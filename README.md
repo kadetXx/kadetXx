@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  I plan, design, build and maintain software. These days, that mostly<br />
-  involves teaming up with agents on anything from interfaces that feel<br />
-  alive to the cloud pipelines that keep them running. Over the years, I've<br />
-  worked mostly in product and design engineering, across gaming, finance<br />
-  and creative development. Right now, I'm solving problems for recruiting teams.
+  I plan, design, build and maintain software. These<br />
+  days, that mostly involves teaming up with agents on<br />
+  anything from interfaces that feel alive to the cloud<br />
+  pipelines that keep them running. Over the years,<br />
+  I've worked mostly in product and design engineering,<br />
+  across gaming, finance and creative development.<br />
+  Right now, I'm solving problems for recruiting teams.
 </p>
