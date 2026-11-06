@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3>hello! i'm kadet</h3>
+$`\LARGE\textsf{hello! i'm kadet}`$
 
 $`\large\color{#9198a1}{\begin{array}{l}\textsf{i design, build and maintain software. over the years, i've worked mostly in product and design engineering,} \\ \textsf{across gaming, finance and creative development. atm, my role involves making hiring less painful for recruiters.}\end{array}}`$
 
