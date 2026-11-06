@@ -11,7 +11,7 @@ $`\large\color{#9198a1}{\begin{array}{l}\textsf{i design, build and maintain sof
 <br />
 
 <p>
-  <a href="https://kadet.dev" title="kadet.dev"><img src="icons/briefcase.svg" width="20" height="20" alt="kadet.dev" /></a>
+  <a href="https://kadet.dev" title="kadet.dev"><img src="icons/showcase.svg" width="20" height="20" alt="kadet.dev" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:hello@kadet.dev" title="hello@kadet.dev"><img src="icons/at.svg" width="20" height="20" alt="hello@kadet.dev" /></a>
   &nbsp;&nbsp;&nbsp;
