@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<h3 align="center">Hi! i'm kadet</h3>
+<h3 align="center">hi! i'm kadet</h3>
 
 $$
 \large\color{#9198a1}{\begin{array}{c}
-\textsf{I plan, design, build and maintain software. These days, that} \\
+\textsf{i plan, design, build and maintain software. these days, that} \\
 \textsf{mostly involves teaming up with agents on anything from interfaces} \\
 \textsf{that feel alive to the cloud pipelines that keep them running.}
 \end{array}}
@@ -16,9 +16,9 @@ $$
 
 $$
 \large\color{#9198a1}{\begin{array}{c}
-\textsf{Over the years, I've worked mostly in product and design} \\
+\textsf{over the years, i've worked mostly in product and design} \\
 \textsf{engineering, across gaming, finance and creative development.} \\
-\textsf{Right now, I'm solving problems for recruiting teams.}
+\textsf{right now, i'm solving problems for recruiting teams.}
 \end{array}}
 $$
 
@@ -29,5 +29,5 @@ $$
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:hello@kadet.dev" title="hello@kadet.dev"><img src="icons/at.svg" width="20" height="20" alt="hello@kadet.dev" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://kadet.dev/blog" title="Notebook"><img src="icons/notebook.svg" width="20" height="20" alt="Notebook" /></a>
+  <a href="https://kadet.dev/blog" title="notebook"><img src="icons/notebook.svg" width="20" height="20" alt="notebook" /></a>
 </p>
