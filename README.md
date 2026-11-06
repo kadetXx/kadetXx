@@ -7,7 +7,7 @@
 <h3 align="center">Hi! i'm kadet</h3>
 
 $$
-\color{#9198a1}{\begin{array}{c}
+\large\color{#9198a1}{\begin{array}{c}
 \textsf{I plan, design, build and maintain software. These days, that} \\
 \textsf{mostly involves teaming up with agents on anything from interfaces} \\
 \textsf{that feel alive to the cloud pipelines that keep them running.}
@@ -15,7 +15,7 @@ $$
 $$
 
 $$
-\color{#9198a1}{\begin{array}{c}
+\large\color{#9198a1}{\begin{array}{c}
 \textsf{Over the years, I've worked mostly in product and design} \\
 \textsf{engineering, across gaming, finance and creative development.} \\
 \textsf{Right now, I'm solving problems for recruiting teams.}
@@ -25,10 +25,7 @@ $$
 <br />
 
 <p align="center">
-  <sub>
-    <a href="https://kadet.dev">kadet.dev</a> ·
-    <a href="https://kadetxx.substack.com">Substack</a> ·
-    <a href="https://www.linkedin.com/in/collinsenebeli/">LinkedIn</a> ·
-    <a href="mailto:hello@kadet.dev">hello@kadet.dev</a>
-  </sub>
+  <a href="https://kadet.dev"><img src="icons/globe.svg" width="14" height="14" alt="" /> kadet.dev</a> &nbsp;·&nbsp;
+  <a href="https://kadetxx.substack.com"><img src="icons/substack.svg" width="14" height="14" alt="" /> Substack</a> &nbsp;·&nbsp;
+  <a href="mailto:hello@kadet.dev"><img src="icons/mail.svg" width="14" height="14" alt="" /> hello@kadet.dev</a>
 </p>
