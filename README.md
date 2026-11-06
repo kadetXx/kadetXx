@@ -27,7 +27,7 @@ $$
 <p align="center">
   <a href="https://kadet.dev" title="kadet.dev"><img src="icons/home.svg" width="20" height="20" alt="kadet.dev" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:hello@kadet.dev" title="hello@kadet.dev"><img src="icons/mail.svg" width="20" height="20" alt="hello@kadet.dev" /></a>
+  <a href="mailto:hello@kadet.dev" title="hello@kadet.dev"><img src="icons/at.svg" width="20" height="20" alt="hello@kadet.dev" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://kadet.dev/blog" title="Notebook"><img src="icons/notebook.svg" width="20" height="20" alt="Notebook" /></a>
 </p>
