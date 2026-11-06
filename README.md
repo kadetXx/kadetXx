@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<h3 align="center">Hi! i'm kadet</h3>
+
 <p align="center">
   I plan, design, build and maintain software. These days, that<br />
   mostly involves teaming up with agents on anything from interfaces<br />
