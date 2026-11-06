@@ -8,14 +8,7 @@
 
 $$
 \large\color{#9198a1}{\begin{array}{c}
-\textsf{i plan, design, build and maintain software. these days, that} \\
-\textsf{mostly involves teaming up with agents on anything from interfaces} \\
-\textsf{that feel alive to the cloud pipelines that keep them running.}
-\end{array}}
-$$
-
-$$
-\large\color{#9198a1}{\begin{array}{c}
+\textsf{i plan, design, build and maintain software.} \\
 \textsf{over the years, i've worked mostly in product and design} \\
 \textsf{engineering, across gaming, finance and creative development.} \\
 \textsf{right now, i'm solving problems for recruiting teams.}
@@ -25,7 +18,7 @@ $$
 <br />
 
 <p align="center">
-  <a href="https://kadet.dev" title="kadet.dev"><img src="icons/home.svg" width="20" height="20" alt="kadet.dev" /></a>
+  <a href="https://kadet.dev" title="kadet.dev"><img src="icons/briefcase.svg" width="20" height="20" alt="kadet.dev" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:hello@kadet.dev" title="hello@kadet.dev"><img src="icons/at.svg" width="20" height="20" alt="hello@kadet.dev" /></a>
   &nbsp;&nbsp;&nbsp;
